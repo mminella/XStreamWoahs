@@ -25,7 +25,7 @@ import org.springframework.batch.core.repository.dao.XStreamExecutionContextStri
 /**
  * @author Michael Minella
  */
-public class SerializationTests {
+public class SerializationTest {
 
 	private static final String EXAMPLE_EXECUTION_CONTEXT = "{\n" +
 			"  \"map\": [{\n" +
